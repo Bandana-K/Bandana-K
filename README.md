@@ -29,18 +29,18 @@
         <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 </p>
 
-<div>
-<p><img 
+<!-- <div>
+ <p><img 
         src="https://github-readme-stats.vercel.app/api?username=Bandana-K&count_private=true&show_icons=true&include_all_commits=true&locale=en"
-        alt="Bandana-K" /></p>
+        alt="Bandana-K" /></p> 
 
 <p><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Bandana-K&show_icons=true&locale=en&layout=compact"
         alt="Bandana-K" /></p>  
-</div>
+</div> 
 
 <p><i>Most used languages shown above does not indicate my skill level. It's a github metric of which languages I have used most in my github repos.</i></p>
-
+-->
 
 <h3 align="left">Visitor Count:</h3>
 <img 
